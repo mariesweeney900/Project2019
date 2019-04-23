@@ -1,3 +1,6 @@
+Adapted from https://ourcodingclub.github.io/2018/04/18/pandas-python-intro.html
+
+
 import pandas as pd
 #import pandas mcode as pd
 import matplotlib.pyplot as plt
