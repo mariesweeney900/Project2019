@@ -5,6 +5,9 @@ dataframe = pd.read_csv('https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh
 x = dataframe.petal_length
 y = dataframe.species
 
+plt.xlabel("Petal length (cm)", fontsize=16)
+plt.ylabel("Species", fontsize=16)
+
 plt.scatter(x, y)
 
 plt.show()
