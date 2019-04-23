@@ -13,11 +13,9 @@ y = dataframe.species
 
 plt.xlabel("Sepal Width (cm)", fontsize=16)
 plt.ylabel("Species", fontsize=16)
-#applies labels sepal width and species of font size 16 to x and y axis
-
 plt.scatter(x, y)
-#creates a scatter plot of the data using the scatter function in matplotlib 
-
 plt.show()
+#applies labels sepal width and species of font size 16 to x and y axis
+#creates a scatter plot of the data using the scatter function in matplotlib 
 #shows the plot of the data using the show function
 #Adapted from https://matplotlib.org/users/pyplot_tutorial.html
