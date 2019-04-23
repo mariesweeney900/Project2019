@@ -1,0 +1,18 @@
+import pandas as pd
+#import pandas mcode as pd
+import matplotlib.pyplot as plt
+#import matplotlib as plt
+
+dataframe = pd.read_csv('https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv')
+#creates a dataframe
+
+x = dataframe.petal_length
+#assign the variable x to petal length
+y = dataframe.sepal_width
+#assign the variable y to sepal width
+
+plt.scatter(x, y)
+#creates a scatter plot of variables x and y 
+
+plt.show()
+#shows the plot
