@@ -8,3 +8,9 @@ References
 McLachlan, G., 2004. Discriminant analysis and statistical pattern recognition (Vol. 544). John Wiley & Sons.
 
 Mori, Y., Kuroda, M. and Makino, N., 2016. Nonlinear principal component analysis and its applications. New York, USA: Springer.
+
+
+https://github.com/mariesweeney900/Project2019/blob/master/Figure3SpeciesbySepalLength.png
+
+
+
