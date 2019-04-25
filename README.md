@@ -157,6 +157,20 @@ The Iris data set uses data collected from the observation and analysis of three
 |6.2         |3.4        |5.4         |2.3        |Iris-virginica |
 |5.9         |3          |5.1         |1.8        |Iris-virginica |
 
+
+       General Statistics Iris Dataset
+
+sepal_length,sepal_width,petal_length,petal_width
+count,150.000000,150.000000,150.000000,150.000000
+mean,5.843333,3.054000, 3.758667,1.198667
+std, 0.828066,0.433594, 1.764420,0.763161
+min, 4.300000,2.000000, 1.000000,0.100000
+25%, 5.100000,2.800000, 1.600000,0.300000
+50%, 5.800000,3.000000, 4.350000,1.300000
+75%, 6.400000,3.300000, 5.100000,1.800000
+max, 7.900000,4.400000, 6.900000,2.500000
+
+
                  Key Measurements of the Versicolor, Virginica and Setosa Iris Flower
 
 ![alt tag](https://raw.githubusercontent.com/mariesweeney900/Project2019/master/VersicolorKeyMeasurements.png) 
