@@ -158,7 +158,7 @@ The Iris data set uses data collected from the observation and analysis of three
 |5.9         |3          |5.1         |1.8        |Iris-virginica |
 
 
-                                General Statistics Iris Dataset
+                    General Statistics Iris Dataset
 
 |FIELD1|sepal_length|sepal_width|petal_length|petal_width|
 |------|------------|-----------|------------|-----------|
