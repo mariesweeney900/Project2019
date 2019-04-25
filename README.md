@@ -174,8 +174,10 @@ References
 
 
 McLachlan, G., 2004. Discriminant analysis and statistical pattern recognition (Vol. 544). John Wiley & Sons.
+https://pdfs.semanticscholar.org/20ce/95262aa2781c2c3127ca77f18afece3c8f69.pdf
 
 Mori, Y., Kuroda, M. and Makino, N., 2016. Nonlinear principal component analysis and its applications. New York, USA: Springer.
+https://books.google.ie/books?id=F5axDQAAQBAJ&printsec=frontcover&dq=Mori,+Y.,+Kuroda,+M.+and+Makino,+N.,+2016.+Nonlinear+principal+component+analysis+and+its+applications.+New+York,+USA:+Springer.&hl=en&sa=X&ved=0ahUKEwih1t-BoezhAhXFSxUIHTSuD6oQ6AEILzAB#v=onepage&q&f=false
 
 https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 
