@@ -1,7 +1,7 @@
 # Project2019
 The Iris data set uses data collected from the observation and analysis of threes species of the iris flower. Four variables were measured from each sample, including sepal length and width and petal length and width. Fisher devised a linear discriminant model which identifies a linear combination of characteristics that identifies events to distinguish one species from another (McLachlan, 2004). The three species of Iris flower are distinguishable by applying nonlinear principal component analysis which is an analysis method based on optimal scaling and is particularly useful in inspecting varied levels of data (Mori et al, 2016) which can aid in investigating combined measurement levels of data. Fishers’ data set is one of the seminal studies in pattern recognition research. 
 
-
+                        The Iris Dataset
 
 |A           |B          |C           |D          |E              |
 |------------|-----------|------------|-----------|---------------|
@@ -157,7 +157,7 @@ The Iris data set uses data collected from the observation and analysis of three
 |6.2         |3.4        |5.4         |2.3        |Iris-virginica |
 |5.9         |3          |5.1         |1.8        |Iris-virginica |
 
-
+                 Key Measurements of the Versicolor, Virginica and Setosa Iris Flower
 
 ![alt tag](https://raw.githubusercontent.com/mariesweeney900/Project2019/master/VersicolorKeyMeasurements.png) 
 
