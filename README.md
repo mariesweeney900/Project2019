@@ -16,6 +16,7 @@ Mori, Y., Kuroda, M. and Makino, N., 2016. Nonlinear principal component analysi
 https://user-images.githubusercontent.com/47941381/56766750-0b181000-67a2-11e9-96ba-23652d1938e6.png
 
 
+![myimage-alt-tag](https://user-images.githubusercontent.com/47941381/56766750-0b181000-67a2-11e9-96ba-23652d1938e6.png)
 
 
 
