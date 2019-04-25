@@ -22,3 +22,5 @@ McLachlan, G., 2004. Discriminant analysis and statistical pattern recognition (
 Mori, Y., Kuroda, M. and Makino, N., 2016. Nonlinear principal component analysis and its applications. New York, USA: Springer.
 
 https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
+
+UC Irvine Machine Learning Repository. Iris data set. http://archive.ics.uci.edu/ml/datasets/Iris.
