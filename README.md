@@ -198,12 +198,11 @@ The Iris data set uses data collected from the observation and analysis of three
 
                       
                                     Mode of Virginica
-                                    
-    |FIELD1|sepal_length|sepal_width|petal_length|petal_width|species|
+   |FIELD1|sepal_length|sepal_width|petal_length|petal_width|species|
 |------|------------|-----------|------------|-----------|-------|
 |0     |6.3         |3.0        |5.1         |1.8        |virginica|
-                                
-   
+                                 
+  
 
                  Key Measurements of the Versicolor, Virginica and Setosa Iris Flower
 
