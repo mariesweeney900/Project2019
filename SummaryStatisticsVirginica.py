@@ -1,0 +1,14 @@
+import pandas as pd
+#imports pandas as pd
+
+import matplotlib.pyplot as plot
+#imports matplotlib as plt
+
+dataframe = pd.read_csv('https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv')
+#Adapted from https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv
+# read the data from the downloaded CSV file.
+
+Species3 = dataframe.loc[dataframe['species'] == 'virginica']
+Species3.describe()
+#Adapted from https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html?fbclid=IwAR2b-doroozwxyDoBwdGYmITeDtGR7QlQAgNctS_xHWroMGz0GTfBtyR-7A
+#makes a dataframe from the species virginica therby isolating it from other species and labelling it species3
