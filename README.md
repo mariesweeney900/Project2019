@@ -6,7 +6,7 @@ The Iris data set uses data collected from the observation and analysis of three
 
                         Background Research
                         
-  I utilised pandas and matplotlib to perform calculations. In order to read the iris dataset I accessed it as an external html file. I obtained the summary statistics of all species of iris flower and also obtained these staitsitcs for each species of iris flower, Setosa, Versicolor and Virginica. I saved these results as a CSV file and then used a online CSV converter to markdown (convertcsv.com) in order to include it as a table in the READme file. I included the png files on the READme through creating an issue and including their html address in the READme.
+  I utilised pandas and matplotlib to perform calculations. In order to read the iris dataset I accessed it as an external website. I obtained the summary statistics of all species of iris flower and also obtained these staitsitcs for each species of iris flower, Setosa, Versicolor and Virginica. I saved these results as a CSV file and then used a online CSV converter to markdown (convertcsv.com) in order to include it as a table in the READme file. I included the png files on the READme through creating an issue and including their web address in the READme.
   
   
 
@@ -249,6 +249,13 @@ The Iris data set uses data collected from the observation and analysis of three
    |FIELD1|sepal_length|sepal_width|petal_length|petal_width|species|
 |------|------------|-----------|------------|-----------|-------|
 |0     |6.3         |3.0        |5.1         |1.8        |virginica|
+
+
+
+           Comparison of Sepal Length, Sepal Width, Petal Lengtha and Petal Width of all Species
+           
+           
+           
                                  
   
 
