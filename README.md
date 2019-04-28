@@ -254,10 +254,10 @@ The Iris data set uses data collected from the observation and analysis of three
 
            Comparison of Sepal Length, Sepal Width, Petal Lengtha and Petal Width of all Species
            
-![alt tag] (https://github.com/mariesweeney900/Project2019/blob/master/PetalLengthAllSpecies.png)
-![alt tag] (https://github.com/mariesweeney900/Project2019/blob/master/PetalWidthAllSpecies.png)
-![alt tag] (https://github.com/mariesweeney900/Project2019/blob/master/SepalLengthAllSpecies.png)
-![alt tag] (https://github.com/mariesweeney900/Project2019/blob/master/SepalWidthAllSpecies.png)
+![alt tag](https://github.com/mariesweeney900/Project2019/blob/master/PetalLengthAllSpecies.png)
+![alt tag](https://github.com/mariesweeney900/Project2019/blob/master/PetalWidthAllSpecies.png)
+![alt tag](https://github.com/mariesweeney900/Project2019/blob/master/SepalLengthAllSpecies.png)
+![alt tag](https://github.com/mariesweeney900/Project2019/blob/master/SepalWidthAllSpecies.png)
            
            
                                  
