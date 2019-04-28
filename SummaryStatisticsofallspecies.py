@@ -10,3 +10,4 @@ dataframe = pd.read_csv('https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh
 
 dataframe.describe()
 #uses the describe function get retrieve summary statistics of the dataframe
+#Adapted from https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html
