@@ -1,6 +1,15 @@
 # Project2019
 The Iris data set uses data collected from the observation and analysis of threes species of the iris flower. Four variables were measured from each sample, including sepal length and width and petal length and width. Fisher devised a linear discriminant model which identifies a linear combination of characteristics that identifies events to distinguish one species from another (McLachlan, 2004). The three species of Iris flower are distinguishable by applying nonlinear principal component analysis which is an analysis method based on optimal scaling and is particularly useful in inspecting varied levels of data (Mori et al, 2016) which can aid in investigating combined measurement levels of data. Fishers’ data set is one of the seminal studies in pattern recognition research. 
 
+
+
+
+                        Background Research
+                        
+  I utilised pandas and matplotlib to perform calculations. In order to read the iris dataset I accessed it as an external html file. I obtained the summary statistics of all species of iris flower and also obtained these staitsitcs for each species of iris flower, Setosa, Versicolor and Virginica. I saved these results as a CSV file and then used a online CSV converter to markdown (convertcsv.com) in order to include it as a table in the READme file. 
+  
+  
+
                         The Iris Dataset
 
 |A           |B          |C           |D          |E              |
@@ -269,4 +278,14 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 
 UC Irvine Machine Learning Repository. Iris data set. http://archive.ics.uci.edu/ml/datasets/Iris.
 
+https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv
+
 http://convertcsv.com/csv-to-markdown.htm
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html?fbclid=IwAR2b-doroozwxyDoBwdGYmITeDtGR7QlQAgNctS_xHWroMGz0GTfBtyR-7A
+
+https://matplotlib.org/users/pyplot_tutorial.htm
+
+https://swcarpentry.github.io/python-novice-gapminder/09-plotting/?fbclid=IwAR1tJvpM5b2qMJVdFqk8AUy-tVN8JURNRrHt8N9scsRbjmb6rql_uwY-LUw
+
+
