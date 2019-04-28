@@ -6,7 +6,7 @@ The Iris data set uses data collected from the observation and analysis of three
 
                         Background Research
                         
-  I utilised pandas and matplotlib to perform calculations. In order to read the iris dataset I accessed it as an external website. I obtained the summary statistics of all species of iris flower and also obtained these staitsitcs for each species of iris flower, Setosa, Versicolor and Virginica. I saved these results as a CSV file and then used a online CSV converter to markdown (convertcsv.com) in order to include it as a table in the READme file. I included the png files on the READme through creating an issue and including their web address in the READme.
+  I utilised pandas and matplotlib to perform calculations. In order to read the iris dataset I accessed it as an external website. I obtained the summary statistics of all species of iris flower and also obtained these staitsitcs for each species of iris flower, Setosa, Versicolor and Virginica. I saved these results as a CSV file and then used a online CSV converter to markdown (convertcsv.com) in order to include it as a table in the READme file. I included the png files on the READme through creating an issue and including their web address in the READme with the alt/html attribute (![alt tag]) before the web address.
   
   
 
@@ -299,4 +299,4 @@ https://matplotlib.org/users/pyplot_tutorial.htm
 
 https://swcarpentry.github.io/python-novice-gapminder/09-plotting/?fbclid=IwAR1tJvpM5b2qMJVdFqk8AUy-tVN8JURNRrHt8N9scsRbjmb6rql_uwY-LUw
 
-
+https://pythonspot.com/matplotlib-scatterplot/
